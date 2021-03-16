@@ -1,0 +1,19 @@
+Selam arkadaşlar ödevinizi buradan takip edebilirsiniz!
+
+Basic bir zar uygulaması yapılacak
+
+Basıldığında tepki veren 2 tuş bulunacak
+  # Her düğme için bir tane olmak üzere iki tıklama işleyici ayarlamalıdır.
+  # 1. Tuşun üzerinde  ZAR AT yazılacak ve basıldığında rastgele 2 zar atacak (2 zar da her atıldığında aynı değeri göstermemeli) zarlar image olarak ekranda gösterilecek
+  # 2. Tuş üzerinde  TEMİZLE  yazılacak ve basıldığında ekranı temizleyecek veya üstünde değer olmayan zarları gösterecek
+  # Zar kullanımında when yapısı kullanılacak
+  # Ödev yüklerken github link kullanılacak 
+  
+ Optional eklentiler (Bunlar isteğe bağlı eklentilerdir sizi geliştirmekte çok yardımcı olacaktır araştırmanızda fayda)
+
+  * Zar adında bir class oluşturup bu uygulamayı çalıştırın
+  * ZAR AT tuşuna basıldığında  alt kısımda zar atıldı yazan bir  penceresi açılacak (Toast yapısı)
+  * Backgrounda istenen bir image konulacak Ekranı kaplayacak şekilde
+  
+ P.S. Kullanacağınız zar ımagelerini dosyaya ekledim, bu dosyaları kullanabilirsiniz.
+
